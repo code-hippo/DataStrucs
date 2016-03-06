@@ -1,10 +1,14 @@
-# DataStrucs
-Some of the projects I have implemented during the **Datastrutures** course.
 
-# 1 RPNCalculator
-RPN Calculator for REversePolishNotation implemented in Java.
+
+## Synopsis
+
+RPN Calculator implemented in Java.
 For more info read [RPN Calculator's wiki](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
-Look into the project folder for the code.
+
+## To Run
+
+compile and run the files directly.
+
 
 ## License
 
